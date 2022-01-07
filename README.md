@@ -1,5 +1,5 @@
 ---
 title: ngDAO
-description: DAO de apoyo a otras DAOs sin ánimo de lucro# DAOsAcademy
+description: Formación sobre DAOs y Blocchain en general
 ---
 Formación, difusión y proyectos relacionados con Organizaciones Autónomas Descentralizadas

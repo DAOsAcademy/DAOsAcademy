@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: DAOs Academy
-description: Formaciós sobre Blockchain
+description: Formación sobre Blockchain
 collections:
   cursos:
     output: true

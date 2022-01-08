@@ -23,7 +23,18 @@ div.ngdao {
   padding-top: 4px;
   padding-right: 4px;
   padding-bottom: 4px;
-  padding-left: 10px;}
+  padding-left: 10px;
+}
+
+div.contenidoCurso {
+  border-radius: 10px;
+  background-color: #e4e4e4;
+  margin-bottom: 10px;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 10px;
+}
 
 .logo {
   display: block;

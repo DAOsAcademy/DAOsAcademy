@@ -9,6 +9,7 @@ horafin:
 precio: 55€
 diassemana: Estamos configurando las fechas del curso. Por favor, <a href="/preferencias.html">indícanos tus preferencias</a>
 profesortitular: Ignacio Baixauli
+paypal: UQ2QCDVCPXJ3E
 ---
 ### Bitcoin
 White paper de Satoshi Nakamoto
@@ -32,10 +33,3 @@ Token ERC20 (Práctico)
 Tokenomics. Economía del token
 DeFi y Uniswap (Práctico)
 Organizaciones Autónomas Descentralizadas (Práctico)
-
-    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="UQ2QCDVCPXJ3E">
-      <input type="image" src="https://www.paypalobjects.com/es_ES/ES/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma rápida y segura de pagar en Internet.">
-      <img alt="" border="0" src="https://www.paypalobjects.com/es_ES/i/scr/pixel.gif" width="1" height="1">
-    </form>

@@ -12,24 +12,24 @@ profesortitular: Ignacio Baixauli
 paypal: UQ2QCDVCPXJ3E
 ---
 ### Bitcoin
-White paper de Satoshi Nakamoto
-Internet del valor / Economía del Bitcoin
-Red de Bitcoin / Descentralización
-Hashing y árboles de Merkle (Práctico)
-Criptografía de Clave Asimétrica
-Wallets y direcciónes de Bitcoin (Práctico)
-Transacciones (Prático)
+* White paper de Satoshi Nakamoto
+* Internet del valor / Economía del Bitcoin
+* Red de Bitcoin / Descentralización
+* Hashing y árboles de Merkle (Práctico)
+* Criptografía de Clave Asimétrica
+* Wallets y direcciónes de Bitcoin (Práctico)
+* Transacciones (Prático)
 ### Blockchain
-Ecosistema Blockchain y DLTs
-Otras blockchains, criptomonedas y tokens
-Protocolos de consenso y forks
-Desafíos, el trilema de Buterin
-Pools de Minería
+* Ecosistema Blockchain y DLTs
+* Otras blockchains, criptomonedas y tokens
+* Protocolos de consenso y forks
+* Desafíos, el trilema de Buterin
+* Pools de Minería
 ### Ethereum
-Ethereum
-Contratos inteligentes
-Metamask
-Token ERC20 (Práctico)
-Tokenomics. Economía del token
-DeFi y Uniswap (Práctico)
-Organizaciones Autónomas Descentralizadas (Práctico)
+* Ethereum
+* Contratos inteligentes
+* Metamask
+* Token ERC20 (Práctico)
+* Tokenomics. Economía del token
+* DeFi y Uniswap (Práctico)
+* Organizaciones Autónomas Descentralizadas (Práctico)

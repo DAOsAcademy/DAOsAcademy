@@ -4,6 +4,7 @@ descripcion:
 fechadesde:
 fechahasta:
 horas:
-horario:
+horariodesde:
+horariohasta:
 ---
 Contenido del curso

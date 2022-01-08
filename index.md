@@ -1,2 +1,2 @@
-Hola
+# {{site.title}}
 # Qué tal

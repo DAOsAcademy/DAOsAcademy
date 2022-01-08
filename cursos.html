@@ -11,21 +11,15 @@ title: Listado de cursos
   <div class="ngdao">
     <h2>{{ curso.nombre }}</h2>
     <h3>{{ curso.descripcion }}</a></h2>
+    <h3>{{ curso.profesortitular }}</a></h2>
     <div class="contenidoCurso">
-      <p>Fecha de inicio:</p>
-      <p>Fecha de finalización:</p>
-      <p>Horario inicio:</p>
-      <p>Horario finalización:</p>
-      <p>Días de la semana (menos festivos)</p>
-      <p>Precio:</p>
-      {{ curso.content }}
+      <p>Fecha de inicio:{{ curso.fechainicio }}</p>
+      <p>Fecha de finalización:{{ curso.fechafin }}</p>
+      <p>Horario inicio:{{ curso.horainicio }}</p>
+      <p>Horario finalización:{{ curso.horafin }}</p>
+      <p>Días de la semana (menos festivos):{{ curso.diassemana }}</p>
+      <p>Precio:{{ curso.precio }}</p>
+      {{ curso.content | markdownify }}
     </div>
-    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="UQ2QCDVCPXJ3E">
-      <input type="image" src="https://www.paypalobjects.com/es_ES/ES/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma rápida y segura de pagar en Internet.">
-      <img alt="" border="0" src="https://www.paypalobjects.com/es_ES/i/scr/pixel.gif" width="1" height="1">
-    </form>
-
   </div>
 {% endfor %}

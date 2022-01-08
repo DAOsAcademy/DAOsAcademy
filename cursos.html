@@ -20,6 +20,7 @@ title: Listado de cursos
       <p><b>Horario finalización:</b> {{ curso.horafin }}</p>
       <p><b>Días de la semana (menos festivos):</b> {{ curso.diassemana }}</p>
       <p><b>Precio:</b> {{ curso.precio }}</p>
+      <p><b>Contenido del curso:</b>
       {{ curso.content | markdownify }}
     </div>
     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">

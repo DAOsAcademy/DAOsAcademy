@@ -5,7 +5,7 @@ fechainicio: Estamos configurando las fechas del curso. Por favor, <a href="/pre
 fechafinal:
 horas: 16h
 horainicio: Estamos configurando las fechas del curso. Por favor, <a href="/preferencias.html">indícanos tus preferencias</a>
-horafin:
+horafin: Estamos configurando las fechas del curso. Por favor, <a href="/preferencias.html">indícanos tus preferencias</a>
 precio: 55€
 diassemana: Estamos configurando las fechas del curso. Por favor, <a href="/preferencias.html">indícanos tus preferencias</a>
 profesortitular: Ignacio Baixauli

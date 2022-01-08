@@ -11,7 +11,9 @@ diassemana: Estamos configurando las fechas del curso. Por favor, <a href="/pref
 profesortitular: Ignacio Baixauli
 paypal: UQ2QCDVCPXJ3E
 ---
+
 ### Bitcoin
+
 * White paper de Satoshi Nakamoto
 * Internet del valor / Economía del Bitcoin
 * Red de Bitcoin / Descentralización
@@ -19,13 +21,17 @@ paypal: UQ2QCDVCPXJ3E
 * Criptografía de Clave Asimétrica
 * Wallets y direcciónes de Bitcoin (Práctico)
 * Transacciones (Prático)
+
 ### Blockchain
+
 * Ecosistema Blockchain y DLTs
 * Otras blockchains, criptomonedas y tokens
 * Protocolos de consenso y forks
 * Desafíos, el trilema de Buterin
 * Pools de Minería
+
 ### Ethereum
+
 * Ethereum
 * Contratos inteligentes
 * Metamask

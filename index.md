@@ -3,5 +3,5 @@
 
 # DAOS Academy
 
-* [/cursos.html](Consulta nuestros cursos)
+* [Consulta nuestros cursos](/cursos.html)
 * Construye tu DAO con nosotros

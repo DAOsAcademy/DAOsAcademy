@@ -6,9 +6,8 @@ fechainicio: 14 de marzo de 2022
 dias: 14, 15, 16, 17, 21, 22, 23,24 marzo de 2022
 fechafinal: 24 de marzo de 2022
 horas: 16h
-horainicio: 10:00
-horafinalizacion: 12:00
-horafin: 12:00
+horainicio: 10:00h
+horafin: 12:00h
 precio: 75€
 diassemana: lunes, martes, miércoles, jueves
 profesortitular: Ignacio Baixauli - Desarrollador y dibulgador Blockchain

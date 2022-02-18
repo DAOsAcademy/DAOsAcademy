@@ -1,14 +1,17 @@
 ---
 nombre: Taller online de Blockchain, wallets y criptomonedas
 descripcion: Taller práctico online de Blockchain, wallets y criptomonedas 
-fechainicio: Estamos configurando las fechas del curso. Por favor, <a href="/preferencias.html">indícanos tus preferencias</a> 
-fechafinal:
+fechainicio: 14 de marzo de 2022
+dias: 14, 15, 16, 17, 21, 22, 23,24 marzo de 2022
+fechafinal: 24 de marzo de 2022
+diasdelasemana: lunes, martes, miércoles, jueves
 horas: 16h
-horainicio: Estamos configurando las fechas del curso. Por favor, <a href="/preferencias.html">indícanos tus preferencias</a>
+horainicio: 10:00
+horafinalizacion: 12:00
 horafin: Estamos configurando las fechas del curso. Por favor, <a href="/preferencias.html">indícanos tus preferencias</a>
 precio: 55€
 diassemana: Estamos configurando las fechas del curso. Por favor, <a href="/preferencias.html">indícanos tus preferencias</a>
-profesortitular: Ignacio Baixauli
+profesortitular: Ignacio Baixauli - Desarrollador y dibulgador Blockchain
 paypal: UQ2QCDVCPXJ3E
 ---
 

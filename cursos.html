@@ -24,8 +24,9 @@ title: Listado de cursos
       <p><b>Precio:</b> {{ curso.precio }}</p>
       {% if curso.formularioinscripcion != "" %}
         <p><b><a href="{{ curso.precio }}">Inscríbete ahora</a> Plazas limitadas a 8 alumnos por curso</b>
-      {{ curso.content | markdownify }}
+      {% endif %}
       <p><b>Contenido del curso:</b>
+      {{ curso.content | markdownify }}
     </div>
     {% if curso.paypal != "" %}
       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">

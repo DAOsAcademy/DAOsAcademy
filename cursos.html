@@ -23,14 +23,13 @@ title: Listado de cursos
       <p><b>Hora de finalización de la clase:</b> {{ curso.horafin }}</p>
       <p><b>Precio:</b> {{ curso.precio }}</p>
       <p>formularioinscripcion: "{{ curso.formularioinscripcion }}"</p>
-      {% if curso.formularioinscripcion != "" %}
+      {% if curso.formularioinscripcion and curso.formularioinscripcion != "" and curso.formularioinscripcion != nil %}
         <p><b><a href="{{ curso.formularioinscripcion }}">Inscríbete ahora</a> Plazas limitadas a 8 alumnos por curso</b>
       {% endif %}
       <p><b>Contenido del curso:</b>
       {{ curso.content | markdownify }}
     </div>
-      <p><b>paypal: "{{ curso.paypal }}"</p>
-    {% if curso.paypal != "" %}
+    {% if curso.paypal and curso.paypal != "" and curso.paypal != nil %}
       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="{{ curso.paypal }}">

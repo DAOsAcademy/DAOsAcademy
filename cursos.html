@@ -22,7 +22,6 @@ title: Listado de cursos
       <p><b>Hora de inicio de la clase:</b> {{ curso.horainicio }}</p>
       <p><b>Hora de finalización de la clase:</b> {{ curso.horafin }}</p>
       <p><b>Precio:</b> {{ curso.precio }}</p>
-      <p>formularioinscripcion: "{{ curso.formularioinscripcion }}"</p>
       {% if curso.formularioinscripcion and curso.formularioinscripcion != "" and curso.formularioinscripcion != nil %}
         <p><b><a href="{{ curso.formularioinscripcion }}">Inscríbete ahora</a> Plazas limitadas a 8 alumnos por curso</b>
       {% endif %}

@@ -23,7 +23,7 @@ title: Listado de cursos
       <p><b>Hora de finalización de la clase:</b> {{ curso.horafin }}</p>
       <p><b>Precio:</b> {{ curso.precio }}</p>
       {% if curso.formularioinscripcion != "" %}
-      <p><b><a href="{{ curso.precio }}">Inscríbete ahora</a> Plazas limitadas a 8 alumnos por curso</b>
+        <p><b><a href="{{ curso.precio }}">Inscríbete ahora</a> Plazas limitadas a 8 alumnos por curso</b>
       {{ curso.content | markdownify }}
       <p><b>Contenido del curso:</b>
     </div>

@@ -15,8 +15,9 @@ profesortitular: Ignacio Baixauli - Desarrollador y dibulgador Blockchain
 paypal: 
 formularioinscripcion: https://docs.google.com/forms/d/e/1FAIpQLSfhSFqIg_Bi4EGlAkqVlM3ZkMw7QnPviruwp3lZ0IpW21Y2Mw/viewform?usp=sf_link
 ---
-###  ¿Te perdiste los comienzos de Internet?¿Te dijeron que Internet era sólo para fikis y delincuentes?¿No supiste prever el auge y la caída de las .com? ###
-### No dejes que te vuelvan a engañar, anticípate, Blockchain no ha hecho más que empezar. Súbete al tren de la mayor revolución económica, social y tecnológica que jamás ha conocido la humanidad. ###
+### Súbete al tren de la mayor revolución económica, social y tecnológica que jamás ha conocido la humanidad
+### ¿Te perdiste los comienzos de Internet?¿Te dijeron que Internet era sólo para fikis?¿No supiste prever el auge y la caída de las .com? No tedejes que te pase esto con Blockchain, Web3, DAOs, NFTs, etc.
+### ¿Cómo recibe ayudas Ucrania con criptomonedas, DAOs o NFTs?¿Cómo intenta Rusia eludir los embargos internacionales?
 
 El curso cuenta con una web de Google Classroom con contenidos multimedia
 

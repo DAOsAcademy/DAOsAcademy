@@ -14,7 +14,6 @@ profesortitular: Ignacio Baixauli - Desarrollador y dibulgador Blockchain
 paypal: UQ2QCDVCPXJ3E
 
 layout: curso
-title: Taller online de Blockchain, wallets y criptomonedas
 
 ---
 

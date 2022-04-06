@@ -11,7 +11,7 @@ horainicio: 13:45h
 horafin: 16:15h
 precio: 90€
 diassemana: lunes, miércoles
-profesortitular: Ignacio Baixauli - Desarrollador y dibulgador Blockchain
+profesortitular: Ignacio Baixauli - Desarrollador y divulgador Blockchain
 paypal: 
 formularioinscripcion: https://docs.google.com/forms/d/e/1FAIpQLSfhSFqIg_Bi4EGlAkqVlM3ZkMw7QnPviruwp3lZ0IpW21Y2Mw/viewform?usp=sf_link
 

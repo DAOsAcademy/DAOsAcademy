@@ -2,10 +2,10 @@
 nombre: Taller presencial de Blockchain iniciación intesivo, wallets y criptomonedas - La Villa
 descripcion: Taller práctico presencial de Blockchain iniciación intensivo, wallets y criptomonedas 
 modalidad: Presencial - La Villa, Cafetería-Heladería - Avinguda de les Corts Valencianes, 75, 46470 Albal, Valencia 
-fechainicio: sábado 26 de marzo de 2022
-dias: 26 de marzo de 2022 y 2 y 9 de abril de 2022
-fechafinal: 9 de abril de 2022
-horas: 9h
+fechainicio: por determinar pero posiblemente el 23 de abril de 2022
+dias: por determinar
+fechafinal: por determinar
+horas: 9h en total
 horasporclase: 3h
 horainicio: 13:30h
 horafin: 16:30h
@@ -39,7 +39,7 @@ Protocolos de consenso y forks
 Desafíos, el trilema de Buterin
 Iniciación a Ethereum
 
-## Ethereum
+## Ethereum y Web3
 
 Contratos inteligentes
 Metamask

@@ -14,6 +14,10 @@ diassemana: sábado
 profesortitular: Ignacio Baixauli - Desarrollador y dibulgador Blockchain
 paypal: 
 formularioinscripcion: https://docs.google.com/forms/d/e/1FAIpQLSfhSFqIg_Bi4EGlAkqVlM3ZkMw7QnPviruwp3lZ0IpW21Y2Mw/viewform?usp=sf_link
+
+layout: curso
+title: Taller online de Blockchain, wallets y criptomonedas
+
 ---
 ### Súbete al tren de la mayor revolución económica, social y tecnológica que jamás ha conocido la humanidad
 ### ¿Te perdiste los comienzos de Internet?¿Te dijeron que Internet era sólo para fikis?¿No supiste prever el auge y la caída de las .com? No tedejes que te pase esto con Blockchain, Web3, DAOs, NFTs, etc.

@@ -2,10 +2,10 @@
 nombre: Taller online de Blockchain, wallets y criptomonedas
 descripcion: Taller práctico online de Blockchain, wallets y criptomonedas 
 modalidad: Online - Google meet 
-fechainicio: 14 de marzo de 2022
-dias: 14, 15, 16, 17, 21, 22, 23,24 marzo de 2022
-fechafinal: 24 de marzo de 2022
-horas: 16h
+fechainicio: 25 de abril de 2022
+dias: 25, 26, 27, 28 de abril, 2, 3, 4, 5 mayo de 2022
+fechafinal: 5 de mayo de 2022
+horas: 16h en total
 horainicio: 10:00h
 horafin: 12:00h
 precio: 75€
@@ -34,7 +34,7 @@ El curso cuenta con una web de Google Classroom con contenidos multimedia
 * Desafíos, el trilema de Buterin
 * Pools de Minería
 
-### Ethereum
+### Ethereum y Web3
 
 * Ethereum
 * Contratos inteligentes

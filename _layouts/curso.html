@@ -1,0 +1,37 @@
+<link rel="stylesheet" href="/assets/css/styles.css">
+{% include menu.html %}
+<h1>{{ curso.nombre }}</h1>
+{{ curso.content }}
+<hr/>
+<h2>Otros cursos:</h2>
+{% for curso in site.cursos %}
+  <div class="ngdao">
+    <h2>{{ curso.nombre }}</h2>
+    <h3>{{ curso.descripcion }}</a></h3>
+    <h4><b>Profesor titular:</b> {{ curso.profesortitular }}</a></h4>
+    <div class="contenidoCurso">
+      <p><b>Modalidad:</b> {{ curso.modalidad }}</p>
+      <p><b>Fecha de inicio:</b> {{ curso.fechainicio }}</p>
+      <p><b>Fecha de finalización:</b> {{ curso.fechafinal }}</p>
+      <p><b>Días lectivos:</b> {{ curso.dias }}</p>
+      <p><b>Días de la semana:</b> {{ curso.diassemana }}</p>
+      <p><b>Horario de la clase:</b> de {{ curso.horainicio }} a  {{ curso.horafin }}</p>
+      <p><b>Total de horas del curso:</b> {{ curso.horas }}</p>
+      <p><b>Precio:</b> {{ curso.precio }}</p>
+      {% if curso.formularioinscripcion and curso.formularioinscripcion != "" and curso.formularioinscripcion != nil %}
+        <p><b><a href="{{ curso.formularioinscripcion }}">Inscríbete ahora</a> Plazas limitadas a 8 alumnos por curso</b>
+      {% endif %}
+      <p><b>Contenido del curso:</b>
+      {{ curso.content | markdownify }}
+    </div>
+    {% if curso.paypal and curso.paypal != "" and curso.paypal != nil %}
+      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="{{ curso.paypal }}">
+        <input type="image" src="https://www.paypalobjects.com/es_ES/ES/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma rápida y segura de pagar en Internet.">
+        <img alt="" border="0" src="https://www.paypalobjects.com/es_ES/i/scr/pixel.gif" width="1" height="1">
+     </form>
+    {% endif %}
+    <a href="{{ curso.url }}">Más información</a>
+  </div>
+{% endfor %}

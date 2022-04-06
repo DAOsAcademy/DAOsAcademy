@@ -2,10 +2,10 @@
 nombre: Taller presencial de Blockchain avanzado, wallets y criptomonedas - La Villa
 descripcion: Taller práctico presencial de Blockchain avanzado, wallets y criptomonedas 
 modalidad: Presencial - La Villa, Cafetería-Heladería - Avinguda de les Corts Valencianes, 75, 46470 Albal, Valencia 
-fechainicio: lunes 21 de marzo de 2022
-dias: 21, 23, 28, 30 marzo de 2022
-fechafinal: miércoles 31 de marzo de 2022
-horas: 12h 30min
+fechainicio: por determinar pero posiblemente el 25 de abril
+dias: por determinar
+fechafinal: por determinar
+horas: 12h 30min total del curso
 horasporclase: 2h 30min
 horainicio: 13:45h
 horafin: 16:15h

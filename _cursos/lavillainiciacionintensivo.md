@@ -26,27 +26,27 @@ El curso cuenta con una web de Google Classroom con contenidos multimedia
 
 ## Bitcoin
 
-White paper de Satoshi Nakamoto
-Internet del valor / Economía del Bitcoin
-Red de Bitcoin / Descentralización
-Hashing y árboles de Merkle (Práctico)
-Criptografía de Clave Asimétrica
-Wallets y direcciónes de Bitcoin (Práctico)
-Transacciones (Prático)
+* White paper de Satoshi Nakamoto
+* Internet del valor / Economía del Bitcoin
+* Red de Bitcoin / Descentralización
+* Hashing y árboles de Merkle (Práctico)
+* Criptografía de Clave Asimétrica
+* Wallets y direcciónes de Bitcoin (Práctico)
+* Transacciones (Prático)
 
 ## Blockchain
 
-Ecosistema Blockchain y DLTs
-Otras blockchains, criptomonedas y tokens
-Protocolos de consenso y forks
-Desafíos, el trilema de Buterin
-Iniciación a Ethereum
+* Ecosistema Blockchain y DLTs
+* Otras blockchains, criptomonedas y tokens
+* Protocolos de consenso y forks
+* Desafíos, el trilema de Buterin
+* Iniciación a Ethereum
 
 ## Ethereum y Web3
 
-Contratos inteligentes
-Metamask
-Token ERC20
-Tokenomics. Economía del token
-DeFi, NFTs, Metaversos
-Organizaciones Autónomas Descentralizadas
+* Contratos inteligentes
+* Metamask
+* Token ERC20
+* Tokenomics. Economía del token
+* DeFi, NFTs, Metaversos
+* Organizaciones Autónomas Descentralizadas

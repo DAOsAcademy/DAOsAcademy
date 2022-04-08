@@ -1,4 +1,5 @@
 ---
+title: Taller presencial de Blockchain iniciación intesivo, wallets y criptomonedas - La Villa
 nombre: Taller presencial de Blockchain iniciación intesivo, wallets y criptomonedas - La Villa
 descripcion: Taller práctico presencial de Blockchain iniciación intensivo, wallets y criptomonedas 
 modalidad: Presencial - La Villa, Cafetería-Heladería - Avinguda de les Corts Valencianes, 75, 46470 Albal, Valencia 

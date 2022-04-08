@@ -2,7 +2,9 @@
 <link rel="stylesheet" href="/assets/css/styles.css">
 {% include menubsp.html %}
 <br/>
-<img src="{{ page.cartel }}" alt="{{ page.nombre }} class="img-fluid"">
+{% if page.cartel and page.cartel != "" and page.cartel != nil %}
+    <img src="{{ page.cartel }}" alt="{{ page.nombre }} class="img-fluid">
+{% endif %}
 <h1>{{ page.nombre }}</h1>
     <h3>{{ page.descripcion }}</a></h3>
     <h4><b>Profesor titular:</b> {{ page.profesortitular }}</a></h4>

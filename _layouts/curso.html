@@ -8,12 +8,12 @@
 {% include menubsp.html %}
 <br/>
 {% if page.cartel and page.cartel != "" and page.cartel != nil %}
-  <div>
+  <div class="float-letf">
     <img src="{{ page.cartel }}"  class="img-fluid rounded m-2" alt="{{ page.nombre }}" align="left">
   </div>
 {% endif %}
     <h4><b>Profesor titular:</b> {{ page.profesortitular }}</a></h4>
-    <div class="contenidoCurso">
+    <div class="p-3 mb-2 bg-info text-white rounded">
       <p><b>Modalidad:</b> {{ page.modalidad }}</p>
       <p><b>Fecha de inicio:</b> {{ page.fechainicio }}</p>
       <p><b>Fecha de finalización:</b> {{ page.fechafinal }}</p>
@@ -26,7 +26,7 @@
         <p><b><a href="{{ page.formularioinscripcion }}">Inscríbete ahora</a> Plazas limitadas a 8 alumnos por curso</b>
       {% endif %}
     </div>
-    <div class="contenidoCurso">
+    <div class="contenidoCurso rounded">
       <p><b>Contenido del curso:</b>
       {{ page.content | markdownify }}
     </div>

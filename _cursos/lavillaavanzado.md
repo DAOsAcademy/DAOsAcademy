@@ -1,5 +1,6 @@
 ---
 nombre: Taller presencial de Blockchain avanzado, wallets y criptomonedas - La Villa
+tittle: Taller presencial de Blockchain avanzado, wallets y criptomonedas - La Villa
 descripcion: Taller práctico presencial de Blockchain avanzado, wallets y criptomonedas 
 modalidad: Presencial - La Villa, Cafetería-Heladería - Avinguda de les Corts Valencianes, 75, 46470 Albal, Valencia 
 fechainicio: por determinar pero posiblemente el 25 de abril

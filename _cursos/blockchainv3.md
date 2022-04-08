@@ -1,4 +1,5 @@
 ---
+title: Taller online de Blockchain, wallets y criptomonedas
 nombre: Taller online de Blockchain, wallets y criptomonedas
 descripcion: Taller práctico online de Blockchain, wallets y criptomonedas 
 modalidad: Online - Google meet 

@@ -14,6 +14,7 @@ diassemana: lunes, miércoles
 profesortitular: Ignacio Baixauli - Desarrollador y divulgador Blockchain
 paypal: 
 formularioinscripcion: https://docs.google.com/forms/d/e/1FAIpQLSfhSFqIg_Bi4EGlAkqVlM3ZkMw7QnPviruwp3lZ0IpW21Y2Mw/viewform?usp=sf_link
+cartel: https://github.com/DAOsAcademy/DAOsAcademy/blob/main/assets/images/_Cartel%20Blockchain%20La%20Villa%20Avanzado.jpg?raw=true
 
 layout: curso
 
